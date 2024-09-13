@@ -1,0 +1,23 @@
+#text h1 {
+    text-align: center;
+}
+
+#text h2 {
+    text-align: right;
+}
+
+#text h3 {
+    text-align: left;
+}
+
+#text h4 {
+    text-align: justify;
+}
+
+#me {
+    text-align: center;
+}
+
+#WIK {
+    text-align: left;
+}
